@@ -1,0 +1,8 @@
+MOV R1, #3
+BL FOOO
+ADD R2, R0, R1
+SWI 0x11
+
+FOOO:
+    MOV R0, #2
+    MOV PC, LR
