@@ -4,9 +4,10 @@ This repository contains the lab codes for the course UE23CS251B. Below is the l
 
 ## Theory
 1. [Procedural Call](theory/1_procedural_call.s)
-2. [Procedural Call](theory/2_procedural_call.s)
+2. [Procedural Call 2](theory/2_procedural_call.s)
 3. [Parameter Passing Stack](theory/3_parameter_passing_stack.s)
 4. [Nested Procedure Call](theory/4_nested_procedure_call.s)
+5. [String Display](theory/5_string_display.s)
 
 ## Week 1
 1. [Addition with Carry](week_1/1_addition_with_carry.s)
@@ -24,3 +25,7 @@ This repository contains the lab codes for the course UE23CS251B. Below is the l
 4. [Minimum Number](week_2/4_min_num.s)
 5. [Fibonacci Series](week_2/5_fibo.s)
 6. [Multiply](week_2/6_multiply.s)
+
+## Week 3
+1. [Remainer Calculation](week_3/1_remainder_calculation.s)
+2. [Linear Search](week_3/2_linear_search.s)
